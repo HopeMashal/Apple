@@ -373,8 +373,8 @@ ul {
      background: url(../assets/img/tile_homepod_mini__b73w4z3ljymu_medium_2x.jpg)no-repeat;
      height: 100vh;
      width:50vw;
-     background-size: 50vw 100vh;
-     
+     background-size: 63vw 100vh;
+     background-position: 49% 100%;
     }
     .picture3 div{
       display: flex;
@@ -399,7 +399,8 @@ ul {
      background: url(../assets/img/tile_lego_castaways__d2v36ez91ewm_large.jpeg) no-repeat;
      height: 100vh;
      width:50vw;
-     background-size: 50vw 100vh;
+     background-size: 100vw 100vh;
+     background-position: 50% 100%;
    }
    .picture4 div{
     display: flex;
@@ -455,7 +456,8 @@ ul {
     background: url(../assets/img/promo_dickinson__c9ea4l2f5rki_medium_2x.jpg)no-repeat;
     height: 100vh;
      width:50vw;
-     background-size: 50vw 100vh;
+     background-size: 60vw 120vh;
+     background-position: 30% 100%;
  }
  .picture6 div{
   display: flex;
